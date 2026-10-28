@@ -1,0 +1,1844 @@
+{
+ "minute": {
+  "2009-01": {
+   "path": "minute/1min/year=2009/month=01.parquet",
+   "rows": 5726160,
+   "size_bytes": 55523643,
+   "md5": "b5020792e0090833fb5046a02331e754",
+   "parts": 31
+  },
+  "2009-02": {
+   "path": "minute/1min/year=2009/month=02.parquet",
+   "rows": 7634639,
+   "size_bytes": 83410518,
+   "md5": "6a582a10d199d003decb0446b5767baa",
+   "parts": 31
+  },
+  "2009-03": {
+   "path": "minute/1min/year=2009/month=03.parquet",
+   "rows": 8398368,
+   "size_bytes": 89457104,
+   "md5": "da0afba9d3ae2f6eb31a547382cbbf08",
+   "parts": 31
+  },
+  "2009-04": {
+   "path": "minute/1min/year=2009/month=04.parquet",
+   "rows": 8016383,
+   "size_bytes": 86465234,
+   "md5": "86771b0c494cc3d9779f118b4302a829",
+   "parts": 31
+  },
+  "2009-05": {
+   "path": "minute/1min/year=2009/month=05.parquet",
+   "rows": 6863198,
+   "size_bytes": 72756554,
+   "md5": "9364745b80a9bd390698f9786efe200f",
+   "parts": 31
+  },
+  "2009-06": {
+   "path": "minute/1min/year=2009/month=06.parquet",
+   "rows": 8387764,
+   "size_bytes": 88418779,
+   "md5": "133e3b8117f0a8c9697d967e47ed8114",
+   "parts": 31
+  },
+  "2009-07": {
+   "path": "minute/1min/year=2009/month=07.parquet",
+   "rows": 8781076,
+   "size_bytes": 97282970,
+   "md5": "76b4335a3f29f370e44ce2a7fa2d865b",
+   "parts": 31
+  },
+  "2009-08": {
+   "path": "minute/1min/year=2009/month=08.parquet",
+   "rows": 8049159,
+   "size_bytes": 89952779,
+   "md5": "c5360413e35589b838792a3c8aacf851",
+   "parts": 31
+  },
+  "2009-09": {
+   "path": "minute/1min/year=2009/month=09.parquet",
+   "rows": 8501275,
+   "size_bytes": 92542661,
+   "md5": "9a787145b65d89390a8427e15c6df9e8",
+   "parts": 31
+  },
+  "2009-10": {
+   "path": "minute/1min/year=2009/month=10.parquet",
+   "rows": 6219728,
+   "size_bytes": 67344729,
+   "md5": "c0c751012888b4adf4789cb48cf80ea0",
+   "parts": 31
+  },
+  "2009-11": {
+   "path": "minute/1min/year=2009/month=11.parquet",
+   "rows": 8334021,
+   "size_bytes": 95075443,
+   "md5": "ccfde608bacb12c37efb47615da0e84c",
+   "parts": 31
+  },
+  "2009-12": {
+   "path": "minute/1min/year=2009/month=12.parquet",
+   "rows": 9222106,
+   "size_bytes": 102957558,
+   "md5": "5821fcd0b4481a0c133c132b635b8f11",
+   "parts": 31
+  },
+  "2010-01": {
+   "path": "minute/1min/year=2010/month=01.parquet",
+   "rows": 8249189,
+   "size_bytes": 92561123,
+   "md5": "832085323971a6923cc154e12c8aaeda",
+   "parts": 35
+  },
+  "2010-02": {
+   "path": "minute/1min/year=2010/month=02.parquet",
+   "rows": 6291305,
+   "size_bytes": 67377159,
+   "md5": "41199dd7b8d431bfb7505c7ebfdd75e0",
+   "parts": 35
+  },
+  "2010-03": {
+   "path": "minute/1min/year=2010/month=03.parquet",
+   "rows": 9780503,
+   "size_bytes": 105391509,
+   "md5": "8f3798accbd18261c4ce17ea3637f951",
+   "parts": 36
+  },
+  "2010-04": {
+   "path": "minute/1min/year=2010/month=04.parquet",
+   "rows": 9085700,
+   "size_bytes": 100606478,
+   "md5": "1832921c6083825f8f1f24d51b266353",
+   "parts": 36
+  },
+  "2010-05": {
+   "path": "minute/1min/year=2010/month=05.parquet",
+   "rows": 8794331,
+   "size_bytes": 94977564,
+   "md5": "cc1387156bf0b8eab670411f9860eb2f",
+   "parts": 36
+  },
+  "2010-06": {
+   "path": "minute/1min/year=2010/month=06.parquet",
+   "rows": 8498865,
+   "size_bytes": 88379606,
+   "md5": "28e3a95c65aa11530b737c026fbaab3e",
+   "parts": 36
+  },
+  "2010-07": {
+   "path": "minute/1min/year=2010/month=07.parquet",
+   "rows": 9973062,
+   "size_bytes": 103643601,
+   "md5": "aa707bbbaf14211baf4532e645d10cf3",
+   "parts": 36
+  },
+  "2010-08": {
+   "path": "minute/1min/year=2010/month=08.parquet",
+   "rows": 10111878,
+   "size_bytes": 109654682,
+   "md5": "c94cdf8fafcbaa5f5776488f1783a716",
+   "parts": 36
+  },
+  "2010-09": {
+   "path": "minute/1min/year=2010/month=09.parquet",
+   "rows": 8867836,
+   "size_bytes": 96262939,
+   "md5": "65ca19592d2fd9a7388fd262ec372126",
+   "parts": 36
+  },
+  "2010-10": {
+   "path": "minute/1min/year=2010/month=10.parquet",
+   "rows": 7571738,
+   "size_bytes": 87280943,
+   "md5": "a967b0cc16b5def12a4726753f603bc9",
+   "parts": 36
+  },
+  "2010-11": {
+   "path": "minute/1min/year=2010/month=11.parquet",
+   "rows": 10550980,
+   "size_bytes": 123129571,
+   "md5": "d3e92d8ebac1be28a1720e0664c0fb7f",
+   "parts": 36
+  },
+  "2010-12": {
+   "path": "minute/1min/year=2010/month=12.parquet",
+   "rows": 11200475,
+   "size_bytes": 121673885,
+   "md5": "7029094267a5b8dec7aac7d0218af9dd",
+   "parts": 36
+  },
+  "2011-01": {
+   "path": "minute/1min/year=2011/month=01.parquet",
+   "rows": 9907028,
+   "size_bytes": 102187918,
+   "md5": "fc9458b142f08270bf083dd4f819499b",
+   "parts": 43
+  },
+  "2011-02": {
+   "path": "minute/1min/year=2011/month=02.parquet",
+   "rows": 7540408,
+   "size_bytes": 81636090,
+   "md5": "0c5a6287103bfb3307e5f29cba4b2f5c",
+   "parts": 43
+  },
+  "2011-03": {
+   "path": "minute/1min/year=2011/month=03.parquet",
+   "rows": 11726819,
+   "size_bytes": 128069792,
+   "md5": "0cbfaf83f6c5b8f245027dcb9223d436",
+   "parts": 43
+  },
+  "2011-04": {
+   "path": "minute/1min/year=2011/month=04.parquet",
+   "rows": 9791589,
+   "size_bytes": 102623942,
+   "md5": "9ca6318182febe7ed9753373c4aa35a2",
+   "parts": 43
+  },
+  "2011-05": {
+   "path": "minute/1min/year=2011/month=05.parquet",
+   "rows": 10949594,
+   "size_bytes": 109590889,
+   "md5": "9f5e7d154751c29b4d18b11fee496262",
+   "parts": 43
+  },
+  "2011-06": {
+   "path": "minute/1min/year=2011/month=06.parquet",
+   "rows": 11092025,
+   "size_bytes": 109660713,
+   "md5": "3f4e854bb25787d542e3a616de2cd953",
+   "parts": 43
+  },
+  "2011-07": {
+   "path": "minute/1min/year=2011/month=07.parquet",
+   "rows": 11211320,
+   "size_bytes": 117898682,
+   "md5": "b2d268e2e57b9c2fbd497f399be0d146",
+   "parts": 43
+  },
+  "2011-08": {
+   "path": "minute/1min/year=2011/month=08.parquet",
+   "rows": 12402824,
+   "size_bytes": 127473008,
+   "md5": "d8204a14c8eb1d2e7ec08d20b45d20a7",
+   "parts": 43
+  },
+  "2011-09": {
+   "path": "minute/1min/year=2011/month=09.parquet",
+   "rows": 11427015,
+   "size_bytes": 108968539,
+   "md5": "9175ac3bb62458db0075d8fb71836726",
+   "parts": 43
+  },
+  "2011-10": {
+   "path": "minute/1min/year=2011/month=10.parquet",
+   "rows": 8771195,
+   "size_bytes": 86230171,
+   "md5": "5e09fed2eb4ad981d7990696222befd8",
+   "parts": 43
+  },
+  "2011-11": {
+   "path": "minute/1min/year=2011/month=11.parquet",
+   "rows": 12149292,
+   "size_bytes": 123451479,
+   "md5": "253da944ee4943a00087cc60a24680ab",
+   "parts": 43
+  },
+  "2011-12": {
+   "path": "minute/1min/year=2011/month=12.parquet",
+   "rows": 12234606,
+   "size_bytes": 114656252,
+   "md5": "7c007ca616a8126de7c3c58505f14d2f",
+   "parts": 43
+  },
+  "2012-01": {
+   "path": "minute/1min/year=2012/month=01.parquet",
+   "rows": 8400537,
+   "size_bytes": 80959317,
+   "md5": "2ba4188fa10599b6d8b543a701e694e3",
+   "parts": 47
+  },
+  "2012-02": {
+   "path": "minute/1min/year=2012/month=02.parquet",
+   "rows": 11803457,
+   "size_bytes": 119372656,
+   "md5": "e5a1e5fd453e59eff9f6b899e209ac0d",
+   "parts": 47
+  },
+  "2012-03": {
+   "path": "minute/1min/year=2012/month=03.parquet",
+   "rows": 12456567,
+   "size_bytes": 128362994,
+   "md5": "815faf919fe29e5f115681ce64758b97",
+   "parts": 47
+  },
+  "2012-04": {
+   "path": "minute/1min/year=2012/month=04.parquet",
+   "rows": 9707480,
+   "size_bytes": 97237668,
+   "md5": "5993bcb3f714e82a6ebb878a36c66228",
+   "parts": 47
+  },
+  "2012-05": {
+   "path": "minute/1min/year=2012/month=05.parquet",
+   "rows": 12661417,
+   "size_bytes": 123363637,
+   "md5": "7d472a21cefc6e6fd54e1542e18f8263",
+   "parts": 47
+  },
+  "2012-06": {
+   "path": "minute/1min/year=2012/month=06.parquet",
+   "rows": 11620297,
+   "size_bytes": 109522259,
+   "md5": "59f4296e3faba8889b405aa28f14e990",
+   "parts": 47
+  },
+  "2012-07": {
+   "path": "minute/1min/year=2012/month=07.parquet",
+   "rows": 12868195,
+   "size_bytes": 120995183,
+   "md5": "ad575dca752b8064accc2ec9d11f1d03",
+   "parts": 47
+  },
+  "2012-08": {
+   "path": "minute/1min/year=2012/month=08.parquet",
+   "rows": 13563480,
+   "size_bytes": 125401731,
+   "md5": "3b29181d6d66e499f3bf42d9962fe555",
+   "parts": 47
+  },
+  "2012-09": {
+   "path": "minute/1min/year=2012/month=09.parquet",
+   "rows": 11848283,
+   "size_bytes": 111867829,
+   "md5": "f3b6a7dc794b60aaa9ca18341f6f8d1a",
+   "parts": 47
+  },
+  "2012-10": {
+   "path": "minute/1min/year=2012/month=10.parquet",
+   "rows": 10700400,
+   "size_bytes": 97343901,
+   "md5": "4931490d15e64a5dd0a37a148f6a91a3",
+   "parts": 47
+  },
+  "2012-11": {
+   "path": "minute/1min/year=2012/month=11.parquet",
+   "rows": 13090397,
+   "size_bytes": 112331547,
+   "md5": "114f1d5104f1da0bf0537a89bbe0d890",
+   "parts": 47
+  },
+  "2012-12": {
+   "path": "minute/1min/year=2012/month=12.parquet",
+   "rows": 12495609,
+   "size_bytes": 120115399,
+   "md5": "428e7a2e5a071895f16f958a3131f3b7",
+   "parts": 47
+  },
+  "2013-01": {
+   "path": "minute/1min/year=2013/month=01.parquet",
+   "rows": 11900580,
+   "size_bytes": 123619871,
+   "md5": "6b07cf9a1ceb84d49fd176c01a60ea82",
+   "parts": 47
+  },
+  "2013-02": {
+   "path": "minute/1min/year=2013/month=02.parquet",
+   "rows": 8925435,
+   "size_bytes": 91431004,
+   "md5": "ae89bc6b7111e0f1462df0daa1415d05",
+   "parts": 47
+  },
+  "2013-03": {
+   "path": "minute/1min/year=2013/month=03.parquet",
+   "rows": 12495609,
+   "size_bytes": 127727616,
+   "md5": "0ac7aad703034aa782c6f35f2e3e09f0",
+   "parts": 47
+  },
+  "2013-04": {
+   "path": "minute/1min/year=2013/month=04.parquet",
+   "rows": 10710281,
+   "size_bytes": 102756566,
+   "md5": "a90887927e22cce483f7d5d844d359d0",
+   "parts": 47
+  },
+  "2013-05": {
+   "path": "minute/1min/year=2013/month=05.parquet",
+   "rows": 13085336,
+   "size_bytes": 134198193,
+   "md5": "b7d74959383f9957951be0db9d81ba04",
+   "parts": 47
+  },
+  "2013-06": {
+   "path": "minute/1min/year=2013/month=06.parquet",
+   "rows": 10111396,
+   "size_bytes": 102787122,
+   "md5": "c2f99ac2c5db306490c23ef1386534a4",
+   "parts": 47
+  },
+  "2013-07": {
+   "path": "minute/1min/year=2013/month=07.parquet",
+   "rows": 13676991,
+   "size_bytes": 137266377,
+   "md5": "8a40e8038028b0d250f0aac67017a40b",
+   "parts": 47
+  },
+  "2013-08": {
+   "path": "minute/1min/year=2013/month=08.parquet",
+   "rows": 13076901,
+   "size_bytes": 133267782,
+   "md5": "6d7df960cd867076ce5023835c204517",
+   "parts": 47
+  },
+  "2013-09": {
+   "path": "minute/1min/year=2013/month=09.parquet",
+   "rows": 11291814,
+   "size_bytes": 116484824,
+   "md5": "3cf5a8ff48f8a39b1bf0d5f3d0257dd2",
+   "parts": 47
+  },
+  "2013-10": {
+   "path": "minute/1min/year=2013/month=10.parquet",
+   "rows": 10697508,
+   "size_bytes": 112011517,
+   "md5": "0351fccf0f4c61295c80f03fb8b67931",
+   "parts": 47
+  },
+  "2013-11": {
+   "path": "minute/1min/year=2013/month=11.parquet",
+   "rows": 12480426,
+   "size_bytes": 124396791,
+   "md5": "250c08500084dca91829d487a57afcda",
+   "parts": 47
+  },
+  "2013-12": {
+   "path": "minute/1min/year=2013/month=12.parquet",
+   "rows": 13076901,
+   "size_bytes": 130661085,
+   "md5": "2401576eca461cb66bdbca694c655136",
+   "parts": 47
+  },
+  "2014-01": {
+   "path": "minute/1min/year=2014/month=01.parquet",
+   "rows": 12535374,
+   "size_bytes": 123677910,
+   "md5": "540de1fb0567b5d77a75a26c87b0488c",
+   "parts": 50
+  },
+  "2014-02": {
+   "path": "minute/1min/year=2014/month=02.parquet",
+   "rows": 9663377,
+   "size_bytes": 102550675,
+   "md5": "cf169e00e0dd8b58a357aaf8005619c9",
+   "parts": 50
+  },
+  "2014-03": {
+   "path": "minute/1min/year=2014/month=03.parquet",
+   "rows": 12728415,
+   "size_bytes": 129932980,
+   "md5": "2015b4f24b3eafe9c91f56dd33c56159",
+   "parts": 50
+  },
+  "2014-04": {
+   "path": "minute/1min/year=2014/month=04.parquet",
+   "rows": 12728415,
+   "size_bytes": 122838353,
+   "md5": "dad1d3250b677d58014a75d5d7c46e06",
+   "parts": 50
+  },
+  "2014-05": {
+   "path": "minute/1min/year=2014/month=05.parquet",
+   "rows": 12122300,
+   "size_bytes": 111736291,
+   "md5": "a6c4222623b0410cede50c65e2410289",
+   "parts": 50
+  },
+  "2014-06": {
+   "path": "minute/1min/year=2014/month=06.parquet",
+   "rows": 12120372,
+   "size_bytes": 113753113,
+   "md5": "66b163cd3be4be98fca406ae860e08fb",
+   "parts": 50
+  },
+  "2014-07": {
+   "path": "minute/1min/year=2014/month=07.parquet",
+   "rows": 13980651,
+   "size_bytes": 137444393,
+   "md5": "2c8d60557675c687b7ef719f48b0a189",
+   "parts": 50
+  },
+  "2014-08": {
+   "path": "minute/1min/year=2014/month=08.parquet",
+   "rows": 12825538,
+   "size_bytes": 130426075,
+   "md5": "f16e9798e87e19328fb33a89d3484286",
+   "parts": 50
+  },
+  "2014-09": {
+   "path": "minute/1min/year=2014/month=09.parquet",
+   "rows": 12864821,
+   "size_bytes": 135191503,
+   "md5": "9cb0f028f745fe3587650c827ae1c162",
+   "parts": 50
+  },
+  "2014-10": {
+   "path": "minute/1min/year=2014/month=10.parquet",
+   "rows": 11093230,
+   "size_bytes": 116350045,
+   "md5": "cb92005b30bc8b51c71ba0c90fdb1720",
+   "parts": 50
+  },
+  "2014-11": {
+   "path": "minute/1min/year=2014/month=11.parquet",
+   "rows": 12378724,
+   "size_bytes": 130408324,
+   "md5": "8a0e973d1c6348288fa14aad428036bf",
+   "parts": 50
+  },
+  "2014-12": {
+   "path": "minute/1min/year=2014/month=12.parquet",
+   "rows": 14301663,
+   "size_bytes": 156558655,
+   "md5": "4ec173f1adf930337d767e354c2664ab",
+   "parts": 50
+  },
+  "2015-01": {
+   "path": "minute/1min/year=2015/month=01.parquet",
+   "rows": 11332543,
+   "size_bytes": 135452295,
+   "md5": "5a9139dfa726d61ad9e58fca390c88e7",
+   "parts": 48
+  },
+  "2015-02": {
+   "path": "minute/1min/year=2015/month=02.parquet",
+   "rows": 8534051,
+   "size_bytes": 99252808,
+   "md5": "3ad6c35a81d0503759dfe4f1fa1261f3",
+   "parts": 48
+  },
+  "2015-03": {
+   "path": "minute/1min/year=2015/month=03.parquet",
+   "rows": 12498019,
+   "size_bytes": 158764875,
+   "md5": "d5aed3f262e3631d50100ab401078036",
+   "parts": 48
+  },
+  "2015-04": {
+   "path": "minute/1min/year=2015/month=04.parquet",
+   "rows": 11843704,
+   "size_bytes": 157689504,
+   "md5": "eb3969cf07ce55e1b5924ca2dcc41660",
+   "parts": 48
+  },
+  "2015-05": {
+   "path": "minute/1min/year=2015/month=05.parquet",
+   "rows": 11351582,
+   "size_bytes": 151743055,
+   "md5": "bc85bd85e3cdf328360ecc22ea02644d",
+   "parts": 48
+  },
+  "2015-06": {
+   "path": "minute/1min/year=2015/month=06.parquet",
+   "rows": 12398968,
+   "size_bytes": 160262510,
+   "md5": "0309dd8b1e8cdb80067782b7e7fb74c7",
+   "parts": 48
+  },
+  "2015-07": {
+   "path": "minute/1min/year=2015/month=07.parquet",
+   "rows": 11663195,
+   "size_bytes": 140122696,
+   "md5": "cb1be659fe26f97fb44456e4f5831f24",
+   "parts": 48
+  },
+  "2015-08": {
+   "path": "minute/1min/year=2015/month=08.parquet",
+   "rows": 12060604,
+   "size_bytes": 148645613,
+   "md5": "64cfe110512f14e89e7b45ec2d08c651",
+   "parts": 48
+  },
+  "2015-09": {
+   "path": "minute/1min/year=2015/month=09.parquet",
+   "rows": 12703833,
+   "size_bytes": 141206538,
+   "md5": "067a6a77cdcb4712e15d0af70bf000a7",
+   "parts": 48
+  },
+  "2015-10": {
+   "path": "minute/1min/year=2015/month=10.parquet",
+   "rows": 10993697,
+   "size_bytes": 124287462,
+   "md5": "cb1f17ac7d91c3dfac84ee6e923dd4d2",
+   "parts": 48
+  },
+  "2015-11": {
+   "path": "minute/1min/year=2015/month=11.parquet",
+   "rows": 13425628,
+   "size_bytes": 162538712,
+   "md5": "03cf7b2e6cc478b655bdf42364b8a996",
+   "parts": 48
+  },
+  "2015-12": {
+   "path": "minute/1min/year=2015/month=12.parquet",
+   "rows": 14935493,
+   "size_bytes": 178615562,
+   "md5": "9592843d9fa2c45d44bf7e052249b730",
+   "parts": 48
+  },
+  "2016-01": {
+   "path": "minute/1min/year=2016/month=01.parquet",
+   "rows": 13156913,
+   "size_bytes": 145726008,
+   "md5": "e8cc6cc2ab976948d7823ade716f80ea",
+   "parts": 56
+  },
+  "2016-02": {
+   "path": "minute/1min/year=2016/month=02.parquet",
+   "rows": 10721849,
+   "size_bytes": 119531137,
+   "md5": "edc0d4926116d02713f9d0811f6eb5f9",
+   "parts": 56
+  },
+  "2016-03": {
+   "path": "minute/1min/year=2016/month=03.parquet",
+   "rows": 15349531,
+   "size_bytes": 174136958,
+   "md5": "fc1f2a1d6ba99a6aceeae746bb55eba7",
+   "parts": 56
+  },
+  "2016-04": {
+   "path": "minute/1min/year=2016/month=04.parquet",
+   "rows": 13232828,
+   "size_bytes": 150032458,
+   "md5": "f357ed7056bf4cb61d64152fe4fdb561",
+   "parts": 56
+  },
+  "2016-05": {
+   "path": "minute/1min/year=2016/month=05.parquet",
+   "rows": 13988363,
+   "size_bytes": 152280263,
+   "md5": "70d341869ddbe63c38574ce343e6a9ab",
+   "parts": 56
+  },
+  "2016-06": {
+   "path": "minute/1min/year=2016/month=06.parquet",
+   "rows": 13776765,
+   "size_bytes": 146815394,
+   "md5": "3b598c5852a3fc1064ce79d32f24205c",
+   "parts": 56
+  },
+  "2016-07": {
+   "path": "minute/1min/year=2016/month=07.parquet",
+   "rows": 14534951,
+   "size_bytes": 157245495,
+   "md5": "40c618d44a3569374cb2173de56062b5",
+   "parts": 56
+  },
+  "2016-08": {
+   "path": "minute/1min/year=2016/month=08.parquet",
+   "rows": 16039032,
+   "size_bytes": 168634986,
+   "md5": "733fe2f7197803eaaa5a5c3592721075",
+   "parts": 56
+  },
+  "2016-09": {
+   "path": "minute/1min/year=2016/month=09.parquet",
+   "rows": 14064278,
+   "size_bytes": 144515156,
+   "md5": "66f1e914c9a7440773837549dd8b99a1",
+   "parts": 56
+  },
+  "2016-10": {
+   "path": "minute/1min/year=2016/month=10.parquet",
+   "rows": 11338327,
+   "size_bytes": 118302787,
+   "md5": "69ea3338d16e9a3e06ac34c09573699f",
+   "parts": 56
+  },
+  "2016-11": {
+   "path": "minute/1min/year=2016/month=11.parquet",
+   "rows": 15730070,
+   "size_bytes": 168597884,
+   "md5": "b1d32e7ffd78ca0998df6330189dc362",
+   "parts": 56
+  },
+  "2016-12": {
+   "path": "minute/1min/year=2016/month=12.parquet",
+   "rows": 15939981,
+   "size_bytes": 167061410,
+   "md5": "eef685f58ed7664382ff5a8bdc7c648c",
+   "parts": 56
+  },
+  "2017-01": {
+   "path": "minute/1min/year=2017/month=01.parquet",
+   "rows": 13259338,
+   "size_bytes": 137179784,
+   "md5": "b9d279c837c98020861ab558471b9e96",
+   "parts": 63
+  },
+  "2017-02": {
+   "path": "minute/1min/year=2017/month=02.parquet",
+   "rows": 13462501,
+   "size_bytes": 138741658,
+   "md5": "e79899ea7da31b81b5cef5a7ba19be64",
+   "parts": 64
+  },
+  "2017-03": {
+   "path": "minute/1min/year=2017/month=03.parquet",
+   "rows": 17393452,
+   "size_bytes": 182325192,
+   "md5": "87d3959e91db74d9b229b8a30b672c15",
+   "parts": 64
+  },
+  "2017-04": {
+   "path": "minute/1min/year=2017/month=04.parquet",
+   "rows": 13810505,
+   "size_bytes": 145871680,
+   "md5": "5e84ee0b9a1fe863c97c4b5f68d8e304",
+   "parts": 64
+  },
+  "2017-05": {
+   "path": "minute/1min/year=2017/month=05.parquet",
+   "rows": 15531727,
+   "size_bytes": 159656615,
+   "md5": "2cbaeb516e53e6082bd142e728e6aa68",
+   "parts": 64
+  },
+  "2017-06": {
+   "path": "minute/1min/year=2017/month=06.parquet",
+   "rows": 17273193,
+   "size_bytes": 171795594,
+   "md5": "354fd33ef782c5e3784762a787f0416e",
+   "parts": 64
+  },
+  "2017-07": {
+   "path": "minute/1min/year=2017/month=07.parquet",
+   "rows": 16641291,
+   "size_bytes": 166203605,
+   "md5": "8c8e80dd139f862b7368369a254ba4d5",
+   "parts": 64
+  },
+  "2017-08": {
+   "path": "minute/1min/year=2017/month=08.parquet",
+   "rows": 18432403,
+   "size_bytes": 182744126,
+   "md5": "fffad5dffb5cb7b692b450dfaa9ecb67",
+   "parts": 64
+  },
+  "2017-09": {
+   "path": "minute/1min/year=2017/month=09.parquet",
+   "rows": 16992428,
+   "size_bytes": 170443476,
+   "md5": "e27d957384db3287aff35f9da14e01c9",
+   "parts": 64
+  },
+  "2017-10": {
+   "path": "minute/1min/year=2017/month=10.parquet",
+   "rows": 13886420,
+   "size_bytes": 138711828,
+   "md5": "ceacbf0a38582656d88ec97780b53fc0",
+   "parts": 64
+  },
+  "2017-11": {
+   "path": "minute/1min/year=2017/month=11.parquet",
+   "rows": 18155976,
+   "size_bytes": 184107411,
+   "md5": "d7b8c1092286f98a7ac0d78687dae656",
+   "parts": 64
+  },
+  "2017-12": {
+   "path": "minute/1min/year=2017/month=12.parquet",
+   "rows": 17465752,
+   "size_bytes": 167467824,
+   "md5": "227ba1e5ef5caf66425b7ce27d74a082",
+   "parts": 64
+  },
+  "2018-01": {
+   "path": "minute/1min/year=2018/month=01.parquet",
+   "rows": 18399386,
+   "size_bytes": 181047360,
+   "md5": "21d760755be0b1465ef17a42ced9e9ba",
+   "parts": 68
+  },
+  "2018-02": {
+   "path": "minute/1min/year=2018/month=02.parquet",
+   "rows": 12598516,
+   "size_bytes": 119965905,
+   "md5": "98f036c5ba05f357a9cbc1191f5fc658",
+   "parts": 68
+  },
+  "2018-03": {
+   "path": "minute/1min/year=2018/month=03.parquet",
+   "rows": 18533623,
+   "size_bytes": 182055717,
+   "md5": "ab4f5657e910b5d101b21e08bdd9d91d",
+   "parts": 68
+  },
+  "2018-04": {
+   "path": "minute/1min/year=2018/month=04.parquet",
+   "rows": 15195532,
+   "size_bytes": 151005718,
+   "md5": "872ad9bb58ef1637a2a63fad385ee810",
+   "parts": 68
+  },
+  "2018-05": {
+   "path": "minute/1min/year=2018/month=05.parquet",
+   "rows": 18621588,
+   "size_bytes": 182409798,
+   "md5": "6662869ffb46c072ac8442cc72bb784b",
+   "parts": 68
+  },
+  "2018-06": {
+   "path": "minute/1min/year=2018/month=06.parquet",
+   "rows": 16968810,
+   "size_bytes": 164334337,
+   "md5": "fe00ab9006ecab366c6612dadd9bb543",
+   "parts": 68
+  },
+  "2018-07": {
+   "path": "minute/1min/year=2018/month=07.parquet",
+   "rows": 18704010,
+   "size_bytes": 181276178,
+   "md5": "02cbf5a2c8bee63be9fb7b16293b9aba",
+   "parts": 68
+  },
+  "2018-08": {
+   "path": "minute/1min/year=2018/month=08.parquet",
+   "rows": 19570887,
+   "size_bytes": 186402976,
+   "md5": "911a8c5a604374197e2b9f914cbf118f",
+   "parts": 68
+  },
+  "2018-09": {
+   "path": "minute/1min/year=2018/month=09.parquet",
+   "rows": 16208214,
+   "size_bytes": 151278844,
+   "md5": "c669bf55b3661f34f65267dc17a0785e",
+   "parts": 68
+  },
+  "2018-10": {
+   "path": "minute/1min/year=2018/month=10.parquet",
+   "rows": 15393393,
+   "size_bytes": 150283461,
+   "md5": "9550ff4f91bda448431c610d69b394fa",
+   "parts": 68
+  },
+  "2018-11": {
+   "path": "minute/1min/year=2018/month=11.parquet",
+   "rows": 18840175,
+   "size_bytes": 190814278,
+   "md5": "9b2ee20ae93906262c17a014c40d914b",
+   "parts": 68
+  },
+  "2018-12": {
+   "path": "minute/1min/year=2018/month=12.parquet",
+   "rows": 17158236,
+   "size_bytes": 167020912,
+   "md5": "c3fea42330a78d5a3026d75ae04cd09e",
+   "parts": 68
+  },
+  "2019-01": {
+   "path": "minute/1min/year=2019/month=01.parquet",
+   "rows": 18899220,
+   "size_bytes": 183651810,
+   "md5": "9a0661a922689dc75b4dcd96cc0eaac8",
+   "parts": 70
+  },
+  "2019-02": {
+   "path": "minute/1min/year=2019/month=02.parquet",
+   "rows": 12927722,
+   "size_bytes": 134558784,
+   "md5": "79c1049619a5cba9acaee97def1c0701",
+   "parts": 70
+  },
+  "2019-03": {
+   "path": "minute/1min/year=2019/month=03.parquet",
+   "rows": 18132358,
+   "size_bytes": 205081793,
+   "md5": "ae625b26c4d9a25507468b17379fb070",
+   "parts": 70
+  },
+  "2019-04": {
+   "path": "minute/1min/year=2019/month=04.parquet",
+   "rows": 18182245,
+   "size_bytes": 202340626,
+   "md5": "8eb44a8916dd069281ded4d12a9a4a72",
+   "parts": 70
+  },
+  "2019-05": {
+   "path": "minute/1min/year=2019/month=05.parquet",
+   "rows": 17355374,
+   "size_bytes": 180414167,
+   "md5": "07907109274ec650117d844b667c2968",
+   "parts": 70
+  },
+  "2019-06": {
+   "path": "minute/1min/year=2019/month=06.parquet",
+   "rows": 16529949,
+   "size_bytes": 166922299,
+   "md5": "a8adc5cc3f6e17a3d8aeb17c51bd1c17",
+   "parts": 70
+  },
+  "2019-07": {
+   "path": "minute/1min/year=2019/month=07.parquet",
+   "rows": 20099400,
+   "size_bytes": 195992014,
+   "md5": "c5f4b181f583156ea50e2017fa7bae70",
+   "parts": 71
+  },
+  "2019-08": {
+   "path": "minute/1min/year=2019/month=08.parquet",
+   "rows": 19384112,
+   "size_bytes": 190451845,
+   "md5": "52e7ce79db7720306863eb9f5ffdfdf7",
+   "parts": 71
+  },
+  "2019-09": {
+   "path": "minute/1min/year=2019/month=09.parquet",
+   "rows": 17674458,
+   "size_bytes": 180444037,
+   "md5": "4f5ed85fd54aca3f8c807a064fc80fcb",
+   "parts": 71
+  },
+  "2019-10": {
+   "path": "minute/1min/year=2019/month=10.parquet",
+   "rows": 15958779,
+   "size_bytes": 156906682,
+   "md5": "3c25f60a66e819dad580fd1c16d3eb04",
+   "parts": 71
+  },
+  "2019-11": {
+   "path": "minute/1min/year=2019/month=11.parquet",
+   "rows": 18765465,
+   "size_bytes": 181112830,
+   "md5": "0415645d00f6b559f9904503743cfedd",
+   "parts": 71
+  },
+  "2019-12": {
+   "path": "minute/1min/year=2019/month=12.parquet",
+   "rows": 19793330,
+   "size_bytes": 194396634,
+   "md5": "82fd542ac25ecffe7cde0b5f75811c5d",
+   "parts": 71
+  },
+  "2020-01": {
+   "path": "minute/1min/year=2020/month=01.parquet",
+   "rows": 14459759,
+   "size_bytes": 151943383,
+   "md5": "3d5d4748056fd0d6054fe719c00c455a",
+   "parts": 75
+  },
+  "2020-02": {
+   "path": "minute/1min/year=2020/month=02.parquet",
+   "rows": 18172123,
+   "size_bytes": 199253618,
+   "md5": "d874852cffe67f8164433faa40d86e43",
+   "parts": 75
+  },
+  "2020-03": {
+   "path": "minute/1min/year=2020/month=03.parquet",
+   "rows": 20071685,
+   "size_bytes": 226073233,
+   "md5": "96ea9542e02457508135867408901194",
+   "parts": 75
+  },
+  "2020-04": {
+   "path": "minute/1min/year=2020/month=04.parquet",
+   "rows": 19237825,
+   "size_bytes": 201996731,
+   "md5": "6400e3375af0e999f521ddb949952c53",
+   "parts": 75
+  },
+  "2020-05": {
+   "path": "minute/1min/year=2020/month=05.parquet",
+   "rows": 16581282,
+   "size_bytes": 173676129,
+   "md5": "66d82f484b3613cbcdddee2a5571cc7a",
+   "parts": 76
+  },
+  "2020-06": {
+   "path": "minute/1min/year=2020/month=06.parquet",
+   "rows": 18514825,
+   "size_bytes": 197394207,
+   "md5": "4da3a165ec7339c8ac1d33b13e6ce255",
+   "parts": 76
+  },
+  "2020-07": {
+   "path": "minute/1min/year=2020/month=07.parquet",
+   "rows": 21462255,
+   "size_bytes": 255053432,
+   "md5": "331e2d2f1e6fc575bfc7073556d8520b",
+   "parts": 76
+  },
+  "2020-08": {
+   "path": "minute/1min/year=2020/month=08.parquet",
+   "rows": 19846109,
+   "size_bytes": 232069959,
+   "md5": "2c4aba0cd2bf8d6f7a5417e86682f6ca",
+   "parts": 76
+  },
+  "2020-09": {
+   "path": "minute/1min/year=2020/month=09.parquet",
+   "rows": 21112805,
+   "size_bytes": 240855802,
+   "md5": "e02d84183de4605e1a63522c3346ee4c",
+   "parts": 76
+  },
+  "2020-10": {
+   "path": "minute/1min/year=2020/month=10.parquet",
+   "rows": 15534378,
+   "size_bytes": 171505511,
+   "md5": "95b9d40e8dfd7e145bc154462e0f14df",
+   "parts": 76
+  },
+  "2020-11": {
+   "path": "minute/1min/year=2020/month=11.parquet",
+   "rows": 20525247,
+   "size_bytes": 228486523,
+   "md5": "5cc91deeae2ebad9a58d99c774945981",
+   "parts": 76
+  },
+  "2020-12": {
+   "path": "minute/1min/year=2020/month=12.parquet",
+   "rows": 22674244,
+   "size_bytes": 250611058,
+   "md5": "155436d90ad776fedf91155122d78ea9",
+   "parts": 76
+  },
+  "2021-01": {
+   "path": "minute/1min/year=2021/month=01.parquet",
+   "rows": 19919373,
+   "size_bytes": 225877989,
+   "md5": "3180fe29c6a1e3edc5d6e9508e60465d",
+   "parts": 85
+  },
+  "2021-02": {
+   "path": "minute/1min/year=2021/month=02.parquet",
+   "rows": 15055029,
+   "size_bytes": 171278090,
+   "md5": "096fa11857563f162a6fe0f5c6cbb800",
+   "parts": 85
+  },
+  "2021-03": {
+   "path": "minute/1min/year=2021/month=03.parquet",
+   "rows": 23250234,
+   "size_bytes": 259124228,
+   "md5": "dfc17ead5366396d099718e582fd0fe9",
+   "parts": 85
+  },
+  "2021-04": {
+   "path": "minute/1min/year=2021/month=04.parquet",
+   "rows": 21473341,
+   "size_bytes": 236515603,
+   "md5": "9294528d1b7b8e2049f573322b6265f9",
+   "parts": 85
+  },
+  "2021-05": {
+   "path": "minute/1min/year=2021/month=05.parquet",
+   "rows": 18606646,
+   "size_bytes": 207350767,
+   "md5": "cc4de19c4821bdcaca909cc87e73f659",
+   "parts": 85
+  },
+  "2021-06": {
+   "path": "minute/1min/year=2021/month=06.parquet",
+   "rows": 21938953,
+   "size_bytes": 248660938,
+   "md5": "eefd9c37a00bbddc375b518b13f7068b",
+   "parts": 85
+  },
+  "2021-07": {
+   "path": "minute/1min/year=2021/month=07.parquet",
+   "rows": 23238907,
+   "size_bytes": 269208447,
+   "md5": "42a140169147b75c19ebf3ad3bd88762",
+   "parts": 85
+  },
+  "2021-08": {
+   "path": "minute/1min/year=2021/month=08.parquet",
+   "rows": 23479425,
+   "size_bytes": 276195589,
+   "md5": "06c9d4fdb0b327afa6869547b95ac82c",
+   "parts": 85
+  },
+  "2021-09": {
+   "path": "minute/1min/year=2021/month=09.parquet",
+   "rows": 21514552,
+   "size_bytes": 254925001,
+   "md5": "c5cd432ca7d97a1be8dd30bd3aa06cdc",
+   "parts": 85
+  },
+  "2021-10": {
+   "path": "minute/1min/year=2021/month=10.parquet",
+   "rows": 17340432,
+   "size_bytes": 195808090,
+   "md5": "7fe2d9d049c662495e79737a829ae216",
+   "parts": 85
+  },
+  "2021-11": {
+   "path": "minute/1min/year=2021/month=11.parquet",
+   "rows": 24022157,
+   "size_bytes": 277030467,
+   "md5": "1ecc979568a1a3e9f7b9c861240daece",
+   "parts": 85
+  },
+  "2021-12": {
+   "path": "minute/1min/year=2021/month=12.parquet",
+   "rows": 25319460,
+   "size_bytes": 294976482,
+   "md5": "cd9b60ad2a4e6bc9cc62cd4dd14c74db",
+   "parts": 85
+  },
+  "2022-01": {
+   "path": "minute/1min/year=2022/month=01.parquet",
+   "rows": 21077137,
+   "size_bytes": 248061051,
+   "md5": "d97d4403824789a0dc534e92d12d75d1",
+   "parts": 92
+  },
+  "2022-02": {
+   "path": "minute/1min/year=2022/month=02.parquet",
+   "rows": 17836410,
+   "size_bytes": 202796339,
+   "md5": "a96e2530a7dfdb763788f14640596152",
+   "parts": 92
+  },
+  "2022-03": {
+   "path": "minute/1min/year=2022/month=03.parquet",
+   "rows": 25761695,
+   "size_bytes": 298479205,
+   "md5": "cdc88e1d7786e04118a2ca672fc7d169",
+   "parts": 92
+  },
+  "2022-04": {
+   "path": "minute/1min/year=2022/month=04.parquet",
+   "rows": 21444421,
+   "size_bytes": 245123077,
+   "md5": "589334758088d406f845edbd9f774ca4",
+   "parts": 92
+  },
+  "2022-05": {
+   "path": "minute/1min/year=2022/month=05.parquet",
+   "rows": 21548533,
+   "size_bytes": 239701826,
+   "md5": "14d0420704ec4227c370a024b0ea219f",
+   "parts": 92
+  },
+  "2022-06": {
+   "path": "minute/1min/year=2022/month=06.parquet",
+   "rows": 23863820,
+   "size_bytes": 274618343,
+   "md5": "b3bd2bdd10804d80213bbcc117e04f38",
+   "parts": 92
+  },
+  "2022-07": {
+   "path": "minute/1min/year=2022/month=07.parquet",
+   "rows": 24600368,
+   "size_bytes": 273867645,
+   "md5": "1a97b047651639a6713e1c17955b2bd8",
+   "parts": 94
+  },
+  "2022-08": {
+   "path": "minute/1min/year=2022/month=08.parquet",
+   "rows": 27795416,
+   "size_bytes": 306661597,
+   "md5": "b2607119ea6b3b4ddc4dd181224cb019",
+   "parts": 94
+  },
+  "2022-09": {
+   "path": "minute/1min/year=2022/month=09.parquet",
+   "rows": 25663198,
+   "size_bytes": 273733095,
+   "md5": "918c7138d667b41631f8eef87d008db8",
+   "parts": 94
+  },
+  "2022-10": {
+   "path": "minute/1min/year=2022/month=10.parquet",
+   "rows": 19692096,
+   "size_bytes": 212751574,
+   "md5": "5a57d97dbe470bb869e8ffdb43dafd07",
+   "parts": 94
+  },
+  "2022-11": {
+   "path": "minute/1min/year=2022/month=11.parquet",
+   "rows": 27210628,
+   "size_bytes": 296895932,
+   "md5": "4867063a420bdf0c3e36cd891e4d5cfd",
+   "parts": 94
+  },
+  "2022-12": {
+   "path": "minute/1min/year=2022/month=12.parquet",
+   "rows": 27334743,
+   "size_bytes": 291139642,
+   "md5": "ebb2f2b934378a1aa1e309976480e9df",
+   "parts": 94
+  },
+  "2023-01": {
+   "path": "minute/1min/year=2023/month=01.parquet",
+   "rows": 19945869,
+   "size_bytes": 208508230,
+   "md5": "ae36968f757c2ee83df9a8e42422a7a1",
+   "parts": 101
+  },
+  "2023-02": {
+   "path": "minute/1min/year=2023/month=02.parquet",
+   "rows": 24450283,
+   "size_bytes": 269237110,
+   "md5": "bb4fd7a22f2150670439c543a7d5eebd",
+   "parts": 101
+  },
+  "2023-03": {
+   "path": "minute/1min/year=2023/month=03.parquet",
+   "rows": 27298793,
+   "size_bytes": 308567087,
+   "md5": "1289e24a7c11b1bde122f9f3a518b84b",
+   "parts": 97
+  },
+  "2023-04": {
+   "path": "minute/1min/year=2023/month=04.parquet",
+   "rows": 22669906,
+   "size_bytes": 260106509,
+   "md5": "ccff111820b63dc2542ff593b243cb93",
+   "parts": 97
+  },
+  "2023-05": {
+   "path": "minute/1min/year=2023/month=05.parquet",
+   "rows": 24839708,
+   "size_bytes": 270151075,
+   "md5": "64b3efb9f92a0a8bf3f955e3b6fbd634",
+   "parts": 101
+  },
+  "2023-06": {
+   "path": "minute/1min/year=2023/month=06.parquet",
+   "rows": 25420060,
+   "size_bytes": 273653720,
+   "md5": "62bef1c372e62aee2b3841a28041a5be",
+   "parts": 101
+  },
+  "2023-07": {
+   "path": "minute/1min/year=2023/month=07.parquet",
+   "rows": 26760953,
+   "size_bytes": 284135759,
+   "md5": "c85dbb37730416aa4517348c819d74a6",
+   "parts": 101
+  },
+  "2023-08": {
+   "path": "minute/1min/year=2023/month=08.parquet",
+   "rows": 29418398,
+   "size_bytes": 313036886,
+   "md5": "0963a238b60ffc487626162b8c916cda",
+   "parts": 101
+  },
+  "2023-09": {
+   "path": "minute/1min/year=2023/month=09.parquet",
+   "rows": 25658409,
+   "size_bytes": 266182495,
+   "md5": "6ce8e5ba4290bcd0e0b79aa406a07ecb",
+   "parts": 101
+  },
+  "2023-10": {
+   "path": "minute/1min/year=2023/month=10.parquet",
+   "rows": 21856245,
+   "size_bytes": 228010537,
+   "md5": "b9770ffdc497f3603fea432b1e82cbaa",
+   "parts": 101
+  },
+  "2023-11": {
+   "path": "minute/1min/year=2023/month=11.parquet",
+   "rows": 28329350,
+   "size_bytes": 302450050,
+   "md5": "b87ffcf2259ad3b24bd51fd701edf35b",
+   "parts": 101
+  },
+  "2023-12": {
+   "path": "minute/1min/year=2023/month=12.parquet",
+   "rows": 27097389,
+   "size_bytes": 296933262,
+   "md5": "2eeba670abaa5c18a794f977b6e42339",
+   "parts": 101
+  },
+  "2024-01": {
+   "path": "minute/1min/year=2024/month=01.parquet",
+   "rows": 28451537,
+   "size_bytes": 312476626,
+   "md5": "f9101b574b41977dde10d471a3a64150",
+   "parts": 104
+  },
+  "2024-02": {
+   "path": "minute/1min/year=2024/month=02.parquet",
+   "rows": 19420761,
+   "size_bytes": 220304780,
+   "md5": "91d7fb9bc68b3c46f399213b74042c74",
+   "parts": 104
+  },
+  "2024-03": {
+   "path": "minute/1min/year=2024/month=03.parquet",
+   "rows": 27205839,
+   "size_bytes": 300363658,
+   "md5": "c198e35b706707e2da07c9b250bda9c8",
+   "parts": 104
+  },
+  "2024-04": {
+   "path": "minute/1min/year=2024/month=04.parquet",
+   "rows": 25932426,
+   "size_bytes": 281598337,
+   "md5": "a91584e3e5b7166f2365102290037e8a",
+   "parts": 104
+  },
+  "2024-05": {
+   "path": "minute/1min/year=2024/month=05.parquet",
+   "rows": 25934685,
+   "size_bytes": 271775984,
+   "md5": "8ebabf6a1ac991f638a61ae7c5488650",
+   "parts": 104
+  },
+  "2024-06": {
+   "path": "minute/1min/year=2024/month=06.parquet",
+   "rows": 24645605,
+   "size_bytes": 256917999,
+   "md5": "c669a6a878b5912a0eb11c66b0cb611d",
+   "parts": 104
+  },
+  "2024-07": {
+   "path": "minute/1min/year=2024/month=07.parquet",
+   "rows": 29802519,
+   "size_bytes": 302620257,
+   "md5": "b83e25aa05b59682a1d891af0b388cc0",
+   "parts": 104
+  },
+  "2024-08": {
+   "path": "minute/1min/year=2024/month=08.parquet",
+   "rows": 28474699,
+   "size_bytes": 283786608,
+   "md5": "fc96c67be1582f0770cc4ff0dee689f7",
+   "parts": 104
+  },
+  "2024-09": {
+   "path": "minute/1min/year=2024/month=09.parquet",
+   "rows": 24587487,
+   "size_bytes": 247615227,
+   "md5": "5f3c0f68831ab491b877b2ef60f7b834",
+   "parts": 104
+  },
+  "2024-10": {
+   "path": "minute/1min/year=2024/month=10.parquet",
+   "rows": 23319793,
+   "size_bytes": 279413426,
+   "md5": "409464e2ac69770828d98337f2f14ec5",
+   "parts": 104
+  },
+  "2024-11": {
+   "path": "minute/1min/year=2024/month=11.parquet",
+   "rows": 27188073,
+   "size_bytes": 324730060,
+   "md5": "c7aeb4e8f381edb892298c01b3e6b985",
+   "parts": 104
+  },
+  "2024-12": {
+   "path": "minute/1min/year=2024/month=12.parquet",
+   "rows": 28616286,
+   "size_bytes": 333294747,
+   "md5": "499e266c476389c30cf86f3561f27963",
+   "parts": 104
+  },
+  "2025-01": {
+   "path": "minute/1min/year=2025/month=01.parquet",
+   "rows": 23463138,
+   "size_bytes": 265229120,
+   "md5": "3510511010155025fa03dac60d49d550",
+   "parts": 105
+  },
+  "2025-02": {
+   "path": "minute/1min/year=2025/month=02.parquet",
+   "rows": 23490128,
+   "size_bytes": 271267754,
+   "md5": "4f63898119070481f8e86293962071d3",
+   "parts": 105
+  },
+  "2025-03": {
+   "path": "minute/1min/year=2025/month=03.parquet",
+   "rows": 27424233,
+   "size_bytes": 318309024,
+   "md5": "ebb26833748d1fbd1f99c6d7beed264c",
+   "parts": 105
+  },
+  "2025-04": {
+   "path": "minute/1min/year=2025/month=04.parquet",
+   "rows": 27482643,
+   "size_bytes": 310158446,
+   "md5": "7114d1d65d1b5475780d371e07f0978e",
+   "parts": 105
+  },
+  "2025-05": {
+   "path": "minute/1min/year=2025/month=05.parquet",
+   "rows": 24876413,
+   "size_bytes": 278169820,
+   "md5": "f5a22af3af1bba4d23f7650ba06b74f8",
+   "parts": 105
+  },
+  "2025-06": {
+   "path": "minute/1min/year=2025/month=06.parquet",
+   "rows": 26206486,
+   "size_bytes": 292662370,
+   "md5": "03c0206c343eaebef93e71f869ef3ea7",
+   "parts": 105
+  },
+  "2025-07": {
+   "path": "minute/1min/year=2025/month=07.parquet",
+   "rows": 30146612,
+   "size_bytes": 342366993,
+   "md5": "6c2e5043418f6a9278c8cd6e8e50762c",
+   "parts": 105
+  },
+  "2025-08": {
+   "path": "minute/1min/year=2025/month=08.parquet",
+   "rows": 27554083,
+   "size_bytes": 328436634,
+   "md5": "c94ec997434035f3eae79194d94bbf6d",
+   "parts": 105
+  },
+  "2025-09": {
+   "path": "minute/1min/year=2025/month=09.parquet",
+   "rows": 28900354,
+   "size_bytes": 352097605,
+   "md5": "d377ce08be01a39c0aaaf17cc352358b",
+   "parts": 105
+  },
+  "2025-10": {
+   "path": "minute/1min/year=2025/month=10.parquet",
+   "rows": 22361832,
+   "size_bytes": 268498082,
+   "md5": "ebf38e263272fd7baaf0f3ea5528c553",
+   "parts": 105
+  },
+  "2025-11": {
+   "path": "minute/1min/year=2025/month=11.parquet",
+   "rows": 26203930,
+   "size_bytes": 313041484,
+   "md5": "bf3967390ac0ba611edd76131a20fe17",
+   "parts": 105
+  },
+  "2025-12": {
+   "path": "minute/1min/year=2025/month=12.parquet",
+   "rows": 30190311,
+   "size_bytes": 358346417,
+   "md5": "81bbd69919803e095039c23910ac509d",
+   "parts": 105
+  },
+  "2026-01": {
+   "path": "minute/1min/year=2026/month=01.parquet",
+   "rows": 26308042,
+   "size_bytes": 329165339,
+   "md5": "1add4e19e5c560baa0e8b59bc2075053",
+   "parts": 85
+  },
+  "2026-02": {
+   "path": "minute/1min/year=2026/month=02.parquet",
+   "rows": 18450719,
+   "size_bytes": 224016996,
+   "md5": "4bb4583c952cdfb5aa76707b58016995",
+   "parts": 85
+  },
+  "2026-03": {
+   "path": "minute/1min/year=2026/month=03.parquet",
+   "rows": 29050381,
+   "size_bytes": 360387429,
+   "md5": "93a1f7891c5fb003a5f4a68cb5964831",
+   "parts": 85
+  },
+  "2026-04": {
+   "path": "minute/1min/year=2026/month=04.parquet",
+   "rows": 27835982,
+   "size_bytes": 338246172,
+   "md5": "52164d38ce8bc72ceff1d23f546f5ae9",
+   "parts": 85
+  },
+  "2026-05": {
+   "path": "minute/1min/year=2026/month=05.parquet",
+   "rows": 23865748,
+   "size_bytes": 300729180,
+   "md5": "082779c4e5ddb9e257622e089bd10015",
+   "parts": 85
+  },
+  "2026-06": {
+   "path": "minute/1min/year=2026/month=06.parquet",
+   "rows": 27927803,
+   "size_bytes": 348295173,
+   "md5": "a46f4fac868c698e37cd557e64190f0f",
+   "parts": 85
+  },
+  "2026-07": {
+   "path": "minute/1min/year=2026/month=07.parquet",
+   "rows": 30640499,
+   "size_bytes": 382203314,
+   "md5": "7764e7132f76a35067d27955c83c37b0",
+   "parts": 85
+  },
+  "2026-08": {
+   "path": "minute/1min/year=2026/month=08.parquet",
+   "rows": 28012876,
+   "size_bytes": 407197540,
+   "md5": "29782768bd6df72bd2df651fe8e97987",
+   "parts": 85
+  },
+  "2026-09": {
+   "path": "minute/1min/year=2026/month=09.parquet",
+   "rows": 28128198,
+   "size_bytes": 401131283,
+   "md5": "befa8469317db5f529a88fc044b85318",
+   "parts": 85
+  },
+  "2026-10": {
+   "path": "minute/1min/year=2026/month=10.parquet",
+   "rows": 16209146,
+   "size_bytes": 205206578,
+   "md5": "93e2a783f2184ed2eee27051eaa7d655",
+   "parts": 85
+  }
+ },
+ "daily": {
+  "year=2009": {
+   "path": "daily/year=2009.parquet",
+   "rows": 375770,
+   "size_bytes": 26899062,
+   "md5": "d38ea41495a3cf7c92cac074eb65fc2f"
+  },
+  "year=2010": {
+   "path": "daily/year=2010.parquet",
+   "rows": 432129,
+   "size_bytes": 30346493,
+   "md5": "61ef60aeb6443300750b90d66ca7f30c"
+  },
+  "year=2011": {
+   "path": "daily/year=2011.parquet",
+   "rows": 512176,
+   "size_bytes": 35293729,
+   "md5": "f58f5e6bcb29a814d7c95644393a7b5c"
+  },
+  "year=2012": {
+   "path": "daily/year=2012.parquet",
+   "rows": 566389,
+   "size_bytes": 37145702,
+   "md5": "121c22ae4241f75177d9f0e123b5a44f"
+  },
+  "year=2013": {
+   "path": "daily/year=2013.parquet",
+   "rows": 564814,
+   "size_bytes": 37666736,
+   "md5": "ebd59f3776da8e50fa16b2e77cced035"
+  },
+  "year=2014": {
+   "path": "daily/year=2014.parquet",
+   "rows": 570677,
+   "size_bytes": 39228211,
+   "md5": "390b29098d4291a682e2fbb6311b6959"
+  },
+  "year=2015": {
+   "path": "daily/year=2015.parquet",
+   "rows": 570310,
+   "size_bytes": 42751559,
+   "md5": "a9b109289a99745a5d6c6c85fc941c8c"
+  },
+  "year=2016": {
+   "path": "daily/year=2016.parquet",
+   "rows": 642209,
+   "size_bytes": 45954250,
+   "md5": "07b5fd4efe60d9e1f8479c0551ea5328"
+  },
+  "year=2017": {
+   "path": "daily/year=2017.parquet",
+   "rows": 743941,
+   "size_bytes": 51380190,
+   "md5": "4d701d703c4aa5b4ac774f022b0d436e"
+  },
+  "year=2018": {
+   "path": "daily/year=2018.parquet",
+   "rows": 817583,
+   "size_bytes": 56290538,
+   "md5": "514d7b8162007e23d970043331b7f65e"
+  },
+  "year=2019": {
+   "path": "daily/year=2019.parquet",
+   "rows": 885332,
+   "size_bytes": 60257401,
+   "md5": "56fd773184a24e6e9c2860af1ad0d232"
+  },
+  "year=2020": {
+   "path": "daily/year=2020.parquet",
+   "rows": 946205,
+   "size_bytes": 66801286,
+   "md5": "354a32d5effbb1eb73530474f2d2845d"
+  },
+  "year=2021": {
+   "path": "daily/year=2021.parquet",
+   "rows": 1061849,
+   "size_bytes": 77337971,
+   "md5": "c4757aaf0bed3355adb77d9886b5f1da"
+  },
+  "year=2022": {
+   "path": "daily/year=2022.parquet",
+   "rows": 1171280,
+   "size_bytes": 85466976,
+   "md5": "46a40e7249402e8c4f71d26daa5d8aea"
+  },
+  "year=2023": {
+   "path": "daily/year=2023.parquet",
+   "rows": 1258734,
+   "size_bytes": 89746188,
+   "md5": "967d468ae99e363b81ebc376c4f1d89f"
+  },
+  "year=2024": {
+   "path": "daily/year=2024.parquet",
+   "rows": 1293893,
+   "size_bytes": 92223473,
+   "md5": "c2c5f4237d7fe50430397c6abf0b3025"
+  },
+  "year=2025": {
+   "path": "daily/year=2025.parquet",
+   "rows": 1313898,
+   "size_bytes": 95532934,
+   "md5": "240a2283b23eb4d872dc2df9d1380720"
+  },
+  "year=2026": {
+   "path": "daily/year=2026.parquet",
+   "rows": 1063176,
+   "size_bytes": 80606381,
+   "md5": "064224aeba3fcb832a43f62e266df389"
+  }
+ },
+ "source": {
+  "2009": {
+   "zip": "2009.zip",
+   "zip_bytes": 2762288324,
+   "files_1min": 1698,
+   "rows_1min": 94133877
+  },
+  "2010": {
+   "zip": "2010.zip",
+   "zip_bytes": 3181275186,
+   "files_1min": 2043,
+   "rows_1min": 108975862
+  },
+  "2011": {
+   "zip": "2011.zip",
+   "zip_bytes": 3628005873,
+   "files_1min": 2321,
+   "rows_1min": 129203715
+  },
+  "2012": {
+   "zip": "2012.zip",
+   "zip_bytes": 3802829399,
+   "files_1min": 2472,
+   "rows_1min": 141216119
+  },
+  "2013": {
+   "zip": "2013.zip",
+   "zip_bytes": 3910213966,
+   "files_1min": 2471,
+   "rows_1min": 141529178
+  },
+  "2014": {
+   "zip": "2014.zip",
+   "zip_bytes": 4138038779,
+   "files_1min": 2592,
+   "rows_1min": 149342880
+  },
+  "2015": {
+   "zip": "2015.zip",
+   "zip_bytes": 4640921629,
+   "files_1min": 2811,
+   "rows_1min": 143741317
+  },
+  "2016": {
+   "zip": "2016.zip",
+   "zip_bytes": 4890666361,
+   "files_1min": 3031,
+   "rows_1min": 167872888
+  },
+  "2017": {
+   "zip": "2017.zip",
+   "zip_bytes": 5394293768,
+   "files_1min": 3467,
+   "rows_1min": 192304986
+  },
+  "2018": {
+   "zip": "2018.zip",
+   "zip_bytes": 5657405616,
+   "files_1min": 3567,
+   "rows_1min": 206192370
+  },
+  "2019": {
+   "zip": "2019.zip",
+   "zip_bytes": 6011914748,
+   "files_1min": 3763,
+   "rows_1min": 213702412
+  },
+  "2020": {
+   "zip": "2020.zip",
+   "zip_bytes": 6616188116,
+   "files_1min": 4147,
+   "rows_1min": 228192537
+  },
+  "2021": {
+   "zip": "2021.zip",
+   "zip_bytes": 7397855171,
+   "files_1min": 4608,
+   "rows_1min": 255158509
+  },
+  "2022": {
+   "zip": "2022.zip",
+   "zip_bytes": 8243629825,
+   "files_1min": 5183,
+   "rows_1min": 283828465
+  },
+  "2023": {
+   "zip": "2023.zip",
+   "zip_bytes": 8588744952,
+   "files_1min": 5376,
+   "rows_1min": 303745363
+  },
+  "2024": {
+   "zip": "2024.zip",
+   "zip_bytes": 9150756048,
+   "files_1min": 5423,
+   "rows_1min": 313579710
+  },
+  "2025": {
+   "zip": "2025.zip",
+   "zip_bytes": 9432831913,
+   "files_1min": 5487,
+   "rows_1min": 318300163
+  },
+  "2026": {
+   "zip": "2026(更新到20261023）.zip",
+   "zip_bytes": 9557877950,
+   "files_1min": 5597,
+   "rows_1min": 256429394
+  }
+ },
+ "columns": {
+  "minute": [
+   "trade_date",
+   "ts_code",
+   "trade_time",
+   "open",
+   "high",
+   "low",
+   "close",
+   "vol",
+   "amount",
+   "adj_factor"
+  ],
+  "daily": [
+   "trade_date",
+   "ts_code",
+   "open",
+   "high",
+   "low",
+   "close",
+   "pre_close",
+   "change",
+   "pct_chg",
+   "vol",
+   "amount",
+   "up_limit",
+   "down_limit",
+   "turnover_rate",
+   "turnover_rate_f",
+   "volume_ratio",
+   "pe",
+   "pe_ttm",
+   "pb",
+   "ps",
+   "ps_ttm",
+   "dv_ratio",
+   "dv_ttm",
+   "total_share",
+   "float_share",
+   "free_share",
+   "total_mv",
+   "circ_mv",
+   "adj_factor",
+   "suspend_timing",
+   "suspend_type",
+   "is_st",
+   "listed_days"
+  ]
+ },
+ "built_at": "2026-10-28T20:08:37",
+ "corrupt": {
+  "2009": [
+   {
+    "file": "2009/1min/000045.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000045.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000046.SZ.parquet",
+    "error": "BadZipFile: Bad magic number for file header"
+   },
+   {
+    "file": "2009/1min/000048.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000048.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000049.SZ.parquet",
+    "error": "BadZipFile: Bad magic number for file header"
+   },
+   {
+    "file": "2009/1min/000050.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000050.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000056.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000056.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000059.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000059.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000060.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000060.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000062.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000062.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000063.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000063.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000065.SZ.parquet",
+    "error": "BadZipFile: Bad magic number for file header"
+   },
+   {
+    "file": "2009/1min/000066.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000066.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000070.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000070.SZ.parquet'"
+   },
+   {
+    "file": "2009/1min/000078.SZ.parquet",
+    "error": "BadZipFile: Bad magic number for file header"
+   },
+   {
+    "file": "2009/1min/000088.SZ.parquet",
+    "error": "BadZipFile: Bad CRC-32 for file '2009/1min/000088.SZ.parquet'"
+   }
+  ]
+ },
+ "basic": {
+  "path": "basic/dim_instrument.parquet",
+  "rows": 5928,
+  "size_bytes": 196093,
+  "md5": "6e48a8649435bc8684659bd79fd3c826",
+  "source": "行情数据更新至2026.10.23/stock_basic_data.parquet",
+  "note": "list_status / delist_date / is_hs / fill_source 四列全空，不可用；list_date 有值"
+ }
+}
